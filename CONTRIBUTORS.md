@@ -799,3 +799,8 @@
 - Place: Delhi, India
 - Bio: - Undergraduate
 - Github: [neo700](https://github.com/neo700)
+
+#### Name: [Nemanja Jeremic](https://github.com/nemanjajeremic)
+- Place: Belgrade, Serbia
+- Bio: - Test Automation Developer
+- Github: [nemanjajeremic](https://github.com/nemanjajeremic)
